@@ -3,7 +3,7 @@ import { Inter } from "next/font/google";
 import Link from "next/link";
 import { LanguageDropDown } from "@/components/LanguageDropDown";
 import { serverSideTranslations } from "next-i18next/serverSideTranslations";
-import { useTranslation } from "next-i18next";
+import { useTranslation } from "next-i18next"; 
 
 const inter = Inter({ subsets: ["latin"] });
 
