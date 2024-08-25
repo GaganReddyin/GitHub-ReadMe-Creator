@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
  
 export default function Home() {
   const { t } = useTranslation("common");
-  return (
+  return ( 
     <>
       <div className="bg-gray-50">
         <div className="relative overflow-hidden">
