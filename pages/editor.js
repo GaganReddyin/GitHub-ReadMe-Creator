@@ -1,6 +1,6 @@
 import { Nav } from "@/components/Nav";
 import { sectionTemplates } from "@/data/section-templates";
-import useLocalStorage from "@/hooks/useLocalStorage";
+import useLocalStorage from "@/hooks/useLocalStorage"; 
 import { useEffect, useState } from "react";
 import Head from "next/head";
 import { DownloadModal } from "@/components/DownloadModal";
