@@ -5,7 +5,7 @@ import { LanguageDropDown } from "@/components/LanguageDropDown";
 import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 import { useTranslation } from "next-i18next"; 
 
-const inter = Inter({ subsets: ["latin"] });
+const inter = Inter({ subsets: ["latin"] }); 
     
 export default function Home() {
   const { t } = useTranslation("common");
