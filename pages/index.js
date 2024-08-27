@@ -20,7 +20,7 @@ export default function Home() {
                 width={404}
                 height={784}
                 fill="none"
-                viewBox="0 0 404 784"
+                viewBox="0 0 404 784" 
               >
                 <defs>
                   <pattern
