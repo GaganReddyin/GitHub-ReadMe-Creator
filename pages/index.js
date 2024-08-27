@@ -15,7 +15,7 @@ export default function Home() {
         <div className="relative overflow-hidden">
           <div className="absolute inset-y-0 h-full w-full" aria-label="true">
             <div className="relative h-full">
-              <svg
+              <svg 
                 className="absolute left-full transform -translate-y-3/4 -translate-x-1/4 sm:-translate-x-1/2 md:-translate-y-1/2 lg:-translate-x-3/4"
                 width={404}
                 height={784}
