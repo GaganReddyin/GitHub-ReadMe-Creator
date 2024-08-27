@@ -23,7 +23,7 @@ export default function Editor({ sectionTemplate }) {
   const { backup } = useLocalStorage();
 
   useEffect(() => {
-    if (backup) {
+    if (backup) { 
       setTemplates(backup);
     }
   }, [backup]);
