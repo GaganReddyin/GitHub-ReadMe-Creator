@@ -3,7 +3,7 @@ import { sectionTemplates } from "@/data/section-templates";
 import useLocalStorage from "@/hooks/useLocalStorage";  
 import { useEffect, useState } from "react";
 import Head from "next/head";
-import { DownloadModal } from "@/components/DownloadModal";
+import { DownloadModal } from "@/components/DownloadModal"; 
 import { SectionsColumn } from "@/components/SectionsColumn";
 import EditorPreviewContainer from "@/components/EditorPreviewContainer";
 import { serverSideTranslations } from "next-i18next/serverSideTranslations";
