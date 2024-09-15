@@ -1,5 +1,12 @@
 # GitHub-ReadMe-Creator
-LIVE WEBSITE : https://git-hub-read-me-creator.vercel.app/
+
+Welcome to the GitHub ReadMe Creator! This project helps you easily generate a well-structured README file for your GitHub repositories.
+
+## Live Website
+
+You can try out the live version of the GitHub ReadMe Creator at the following link:
+
+[Live Website](https://git-hub-read-me-creator.vercel.app/)
 
 ![image](https://github.com/user-attachments/assets/6dac7548-7574-4a30-99eb-64c311ef0d93)
 ![image](https://github.com/user-attachments/assets/ff5183eb-23d1-4566-88f2-9c4762d181a5)
