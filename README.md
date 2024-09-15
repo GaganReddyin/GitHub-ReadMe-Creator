@@ -8,8 +8,6 @@ You can try out the live version of the GitHub ReadMe Creator at the following l
 
 [Live Website](https://git-hub-read-me-creator.vercel.app/)
 
-![image](https://github.com/user-attachments/assets/6dac7548-7574-4a30-99eb-64c311ef0d93)
-![image](https://github.com/user-attachments/assets/ff5183eb-23d1-4566-88f2-9c4762d181a5)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -44,6 +42,8 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![image](https://github.com/user-attachments/assets/6dac7548-7574-4a30-99eb-64c311ef0d93)
+![image](https://github.com/user-attachments/assets/ff5183eb-23d1-4566-88f2-9c4762d181a5)
 
 ## Deploy on Vercel
 
