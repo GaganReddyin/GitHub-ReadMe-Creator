@@ -1,5 +1,5 @@
 export const languageSupports = [
-  {
+  { 
     label: "English",
     route: "/",
   },
