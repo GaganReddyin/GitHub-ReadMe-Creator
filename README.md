@@ -1,6 +1,6 @@
 # GitHub-ReadMe-Creator 
 
-Welcome to the GitHub ReadMe Creator! This project helps you easily generate a well-structured README file for your GitHub repositories.
+Welcome to the GitHub ReadMe Creator! This project helps you easily generate a well-structured README file for your GitHub repositories. 
 
 ## Live Website
 
